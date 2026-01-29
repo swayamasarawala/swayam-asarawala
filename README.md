@@ -16,5 +16,5 @@ Computer Science (B.A.) student at the University of Connecticut (Minor: Mathema
 **Tools:** Git, Docker, GitHub Actions, Jira, GCP  
 
 ## Links
-- LinkedIn: https://linkedin.com/in/swayam-asarawala
-- Email: swayam ravin.asarawala@uconn.edu
+- LinkedIn: https://www.linkedin.com/in/swayam-asarawala/
+- Email: swayam_ravin.asarawala@uconn.edu
